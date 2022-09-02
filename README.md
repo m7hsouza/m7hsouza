@@ -8,7 +8,9 @@
 
 - 🔭 I’m currently working as an electronics technician assistant
 
-- 👨‍💻 successfully migrating to Mobile Development with Flutter
+- 🌱 I’m currently learning Flutter, Nodejs.
+
+- 🧑🏾‍💻 successfully migrating to Mobile Development with Flutter
 
 - 💬 Ask me about **Dart, Flutter, Node.JS, SQL, Docker**
 
