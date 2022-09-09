@@ -1,69 +1,44 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/m7hsouza/edac13a9b9640467eda1f359ffc00984/raw/c3c7b5f00e20bfe156a351a4629062734450b35f/githubcard.svg"/>
 
-<h1 align="left">Hi 👋🏽, I'm Matheus Lucas</h1>
+<h1>Olá, eu sou Matheus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m7hsouzas&color=yellow" alt="Profile views" /> </p>
+<h2> 🔥 Desenvolvedor Flutter Junior </h2>
 
-- 🔥 Junior Mobile Developer
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me
 
-- 🔭 I’m currently working as an electronics technician assistant
+- Olá a todos 👋🏽, Meu nome é Matheus;
 
-- 🌱 I’m currently learning Flutter, Nodejs.
+- 📚 Sou estudante de ciência da computação;
 
-- 🧑🏾‍💻 successfully migrating to Mobile Development with Flutter
+- 🌱 Estou aprendendo Dart/Flutter & Nodejs;
 
-- 💬 Ask me about **Dart, Flutter, Node.JS, SQL, Docker**
+- 🔭 Atualmente, estou trabalho como auxiliar técnico em eletrônica;
 
-- ⚡ Hobbies **Skate 🛹, Violão/Guitarra 🎸**
+- 🧑🏾‍💻 Migrando com sucesso para área de programação;
 
-<br><br>
+<img src="https://komarev.com/ghpvc/?username=m7hsouza&label=Profile%20views&color=8042fc&style=plastic" alt="m7hsouza" /> 
 
-## 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Habilidades
 
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=m7hsouza&show_icons=true&theme=vision-friendly-dark" alt="m7hsouza stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7hsouza&layout=compact&theme=vision-friendly-dark" alt="m7hsouza most languages"/>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Nodejs" /></a>
 </p>
-<br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+### 👨🏽‍🦲 &nbsp;Redes sociais
 
-<p align="left" style="background:yellow">
-<a href="https://twitter.com/_m7hsouza" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-_m7hsouza-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/m7hsouza" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-m7hsouza-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/m7hsouza" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-m7hsouza-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+<p align="left"> 
+<a href="http://www.instagram.com/m7hsouza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://linkedin.com/in/m7hsouza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/m7hsouza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 </p>
-<!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ &nbsp;GitHub Analytics
+
+<a href="http://www.github.com/m7hsouza"><img src="https://github-readme-stats.vercel.app/api?username=m7hsouza&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="amirbayat0's GitHub stats" /></a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7hsouza&layout=compact&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="m7hsouza most languages"/>
+<br /><br /><br /><br /><br /><br />
+
